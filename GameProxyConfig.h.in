@@ -1,0 +1,2 @@
+#define GameProxy_VERSION_MAJOR @GameProxy_VERSION_MAJOR@
+#define GameProxy_VERSION_MINOR @GameProxy_VERSION_MINOR@
